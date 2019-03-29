@@ -1,4 +1,11 @@
 ---
+version: 0.79_003
+date:    Fri 29 Mar 2019 03:51:46 PM CET
+changes:
+- Apply PR#71 (ETJ++)
+  Support perl 5.8.1 again
+- More fixes for include dir behaviour (@sisyphus++)
+---
 version: 0.79_002
 date:    Sat Jan 26 13:04:24 CET 2019
 changes:

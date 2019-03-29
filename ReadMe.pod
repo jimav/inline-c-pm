@@ -15,7 +15,7 @@ Inline::C - C Language Support for Inline
 
 =head1 Version
 
-This document describes L<Inline::C> version B<0.79_002>.
+This document describes L<Inline::C> version B<0.79_003>.
 
 =head1 Description
 
